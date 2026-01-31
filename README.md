@@ -6,7 +6,7 @@ Develop a comprehensive report for the following exercises:
 3.	Generative AI applications.
 4.	Generative AI impact of scaling in LLMs.
 
-   Name : PRESILLA K
+   Name : PRESILLA K <br>
    Reg.No: 212223050038
 
 # Output
